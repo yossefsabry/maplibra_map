@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>InGuide Map Viewer</title>
+  <script type="module" crossorigin src="/assets/index-CXZeXDDt.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-VeBYYI6i.css">
+</head>
+
+<body>
+    <div id="map"></div>
+    <div id="ui-root">
+        <div id="top-bar">
+            <div class="top-left">
+                <button id="back-button" class="ghost-button">Back to Editor</button>
+                <div class="title-block">
+                    <div id="map-title">Campus Map</div>
+                    <div class="title-subline">
+                        <span id="map-subtitle">Primary Map View</span>
+                        <span id="map-live" class="live-pill">Live</span>
+                    </div>
+                    <div id="map-address" class="title-address"></div>
+                </div>
+            </div>
+            <div class="top-center"></div>
+            <div class="top-right">
+                <button id="layers-toggle" class="ghost-button">Map Layers</button>
+                <div id="floor-controls"></div>
+                <button id="share-button" class="primary-button">Share Maps</button>
+            </div>
+        </div>
+        <div id="view-indicator" class="view-indicator is-hidden"></div>
+    </div>
+    <div id="developer-legend">
+        <div class="legend-header">
+            <h3>Developer Legend</h3>
+            <p>Node Types Reference</p>
+        </div>
+        <div class="legend-items">
+            <div class="legend-item toggleable active" data-layer="wall-nodes-layer">
+                <div class="legend-checkbox">✓</div>
+                <div class="legend-color" style="background-color: #FF0000;"></div>
+                <div class="legend-info">
+                    <div class="legend-name">Wall Nodes</div>
+                    <div class="legend-desc">Marks wall and obstacle locations</div>
+                </div>
+            </div>
+            <div class="legend-item toggleable active" data-layer="stairs-nodes-layer">
+                <div class="legend-checkbox">✓</div>
+                <div class="legend-color" style="background-color: #FF00FF;"></div>
+                <div class="legend-info">
+                    <div class="legend-name">Stairs Nodes 🪜</div>
+                    <div class="legend-desc">Staircase connection points</div>
+                </div>
+            </div>
+            <div class="legend-item toggleable active" data-layer="elevator-nodes-layer">
+                <div class="legend-checkbox">✓</div>
+                <div class="legend-color" style="background-color: #00FFFF;"></div>
+                <div class="legend-info">
+                    <div class="legend-name">Elevator Nodes 🛗</div>
+                    <div class="legend-desc">Elevator connection points</div>
+                </div>
+            </div>
+            <div class="legend-item toggleable active" data-layer="annotation-nodes-layer">
+                <div class="legend-checkbox">✓</div>
+                <div class="legend-color" style="background: linear-gradient(135deg, #4CAF50 0%, #2196F3 100%);"></div>
+                <div class="legend-info">
+                    <div class="legend-name">Entrance Markers 🚪</div>
+                    <div class="legend-desc">Primary & secondary entrances</div>
+                </div>
+            </div>
+            <div class="legend-item toggleable active" data-layer="walkable-nodes-layer">
+                <div class="legend-checkbox">✓</div>
+                <div class="legend-color" style="background-color: #00FF00;"></div>
+                <div class="legend-info">
+                    <div class="legend-name">Walkable Nodes</div>
+                    <div class="legend-desc">Pathfinding walkable areas (275 nodes)</div>
+                </div>
+            </div>
+            <div class="legend-item toggleable active" data-layer="walkable-areas-layer">
+                <div class="legend-checkbox">✓</div>
+                <div class="legend-color" style="background-color: #4f7cff;"></div>
+                <div class="legend-info">
+                    <div class="legend-name">Walkable Areas</div>
+                    <div class="legend-desc">Walkable polygons for routing</div>
+                </div>
+            </div>
+            <div class="legend-item toggleable active" data-layer="nonwalkable-nodes-layer">
+                <div class="legend-checkbox">✓</div>
+                <div class="legend-color" style="background-color: #FFA500;"></div>
+                <div class="legend-info">
+                    <div class="legend-name">Non-walkable Nodes</div>
+                    <div class="legend-desc">Blocked areas (1323 nodes)</div>
+                </div>
+            </div>
+            <div class="legend-item toggleable active" data-layer="kinds-nodes-layer">
+                <div class="legend-checkbox">✓</div>
+                <div class="legend-color"
+                    style="background: linear-gradient(135deg, #0000FF 0%, #9400D3 50%, #FFD700 100%);"></div>
+                <div class="legend-info">
+                    <div class="legend-name">Kinds Nodes</div>
+                    <div class="legend-desc">Type classifications: walls, rooms, objects (1308 nodes)</div>
+                </div>
+            </div>
+            <div class="legend-item toggleable active" data-layer="entrance-aesthetic-nodes-layer">
+                <div class="legend-checkbox">✓</div>
+                <div class="legend-color" style="background-color: #800080;"></div>
+                <div class="legend-info">
+                    <div class="legend-name">Entrance Aesthetic Nodes</div>
+                    <div class="legend-desc">Entrance points (244 nodes)</div>
+                </div>
+            </div>
+            <div class="legend-item toggleable active" data-layer="location-markers-layer">
+                <div class="legend-checkbox">✓</div>
+                <div class="legend-color" style="background-color: #FFD700;"></div>
+                <div class="legend-info">
+                    <div class="legend-name">Location Markers</div>
+                    <div class="legend-desc">POI locations (2 markers)</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

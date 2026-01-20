@@ -1,0 +1,24 @@
+{
+  "name": "maplibre_mappedin_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@mappedin/maplibre-overlay": "^6.0.1-beta.59",
+    "@mappedin/mappedin-js": "^6.4.0",
+    "@turf/turf": "^7.3.0",
+    "maplibre-gl": "^5.13.0"
+  },
+  "devDependencies": {
+    "jszip": "^3.10.1",
+    "vite": "^7.2.4"
+  }
+}

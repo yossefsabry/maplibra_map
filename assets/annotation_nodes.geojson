@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37234235824016,
+          30.879082020075703
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "annotationId": "a_045abe3e590e4f54",
+        "geometryId": "g_045abe3e590e4f54",
+        "symbolKey": "access-features--primary-entrance",
+        "iconType": "primary-entrance",
+        "entranceType": "Primary Entrance",
+        "type": "annotation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37229499978773,
+          30.87914342334311
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "annotationId": "a_d10e2c3f87e2ed72",
+        "geometryId": "g_d10e2c3f87e2ed72",
+        "symbolKey": "access-features--primary-entrance",
+        "iconType": "primary-entrance",
+        "entranceType": "Primary Entrance",
+        "type": "annotation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37226838915698,
+          30.879157405906625
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "annotationId": "a_babd2e1581cdcc3e",
+        "geometryId": "g_babd2e1581cdcc3e",
+        "symbolKey": "access-features--primary-entrance",
+        "iconType": "primary-entrance",
+        "entranceType": "Primary Entrance",
+        "type": "annotation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37219521422336,
+          30.879164932651165
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "annotationId": "a_0ed8dacbb1db7d44",
+        "geometryId": "g_0ed8dacbb1db7d44",
+        "symbolKey": "access-features--primary-entrance",
+        "iconType": "primary-entrance",
+        "entranceType": "Primary Entrance",
+        "type": "annotation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372176270569454,
+          30.878800162086513
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "annotationId": "a_82093aebdd504308",
+        "geometryId": "g_82093aebdd504308",
+        "symbolKey": "access-features--secondary-entrance",
+        "iconType": "secondary-entrance",
+        "entranceType": "Secondary Entrance",
+        "type": "annotation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37253632137571,
+          30.87870657730369
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "annotationId": "a_db56c37ae519c318",
+        "geometryId": "g_db56c37ae519c318",
+        "symbolKey": "access-features--secondary-entrance",
+        "iconType": "secondary-entrance",
+        "entranceType": "Secondary Entrance",
+        "type": "annotation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37171531818056,
+          30.879171253123342
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "annotationId": "a_e22417e30c90ceed",
+        "geometryId": "g_e22417e30c90ceed",
+        "symbolKey": "access-features--secondary-entrance",
+        "iconType": "secondary-entrance",
+        "entranceType": "Secondary Entrance",
+        "type": "annotation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371951818347945,
+          30.878927520003177
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "annotationId": "a_63e121d8186f2fbf",
+        "geometryId": "g_63e121d8186f2fbf",
+        "symbolKey": "access-features--secondary-entrance",
+        "iconType": "secondary-entrance",
+        "entranceType": "Secondary Entrance",
+        "type": "annotation"
+      }
+    }
+  ]
+}

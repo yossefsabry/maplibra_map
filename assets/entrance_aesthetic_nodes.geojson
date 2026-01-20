@@ -1,0 +1,4153 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37202459772186,
+          30.87908883199046
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_cc39a58b07a6a6e3",
+        "entranceId": "ea_cc39a58b07a6a6e3",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37192683788102,
+          30.879143838602754
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_2cf60723d3ac275b",
+        "entranceId": "ea_2cf60723d3ac275b",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37165810765297,
+          30.87904493893121
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_e785ba40c5fa787d",
+        "entranceId": "ea_e785ba40c5fa787d",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372367536836286,
+          30.87893564279448
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_5ed9377a2b39baee",
+        "entranceId": "ea_5ed9377a2b39baee",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37242577009484,
+          30.87890246683735
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_3abcd8a970d4e027",
+        "entranceId": "ea_3abcd8a970d4e027",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37250542942609,
+          30.878865969194923
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_c5f955d78283d826",
+        "entranceId": "ea_c5f955d78283d826",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37246582292259,
+          30.878820226983926
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_14851abb6661a19b",
+        "entranceId": "ea_14851abb6661a19b",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372523182180906,
+          30.878886577315797
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_715befe6a3a02daf",
+        "entranceId": "ea_715befe6a3a02daf",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372247708793246,
+          30.87886126285339
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_13b20117ff88dea5",
+        "entranceId": "ea_13b20117ff88dea5",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37242537151345,
+          30.87875628656335
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_3c142b69aa3d8579",
+        "entranceId": "ea_3c142b69aa3d8579",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37235734610978,
+          30.878675440360553
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_f1aa896bf1a36a80",
+        "entranceId": "ea_f1aa896bf1a36a80",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372178128751095,
+          30.879109257139486
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_88bb4f7ba5c4c8fe",
+        "entranceId": "ea_88bb4f7ba5c4c8fe",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371745610534624,
+          30.879019719609353
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_a32900f4e370db74",
+        "entranceId": "ea_a32900f4e370db74",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37180982548047,
+          30.879105702864017
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_653f752faf225b0d",
+        "entranceId": "ea_653f752faf225b0d",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37179281925805,
+          30.8791525533637
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_89e1d33672391acb",
+        "entranceId": "ea_89e1d33672391acb",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3723909816412,
+          30.878879392716463
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_c563c0014496a64a",
+        "entranceId": "ea_c563c0014496a64a",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37201932829711,
+          30.879133454031255
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_06e86c4a7efea967",
+        "entranceId": "ea_06e86c4a7efea967",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37195589295963,
+          30.87916919632012
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_94ac3edac428e8b6",
+        "entranceId": "ea_94ac3edac428e8b6",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372092762640854,
+          30.878811911340247
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_b12ec20ab3748d3c",
+        "entranceId": "ea_b12ec20ab3748d3c",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37182187334429,
+          30.87902651668251
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_e1b8449f02ea39b6",
+        "entranceId": "ea_e1b8449f02ea39b6",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37246740612447,
+          30.878769901281387
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_40efb031cecbd14c",
+        "entranceId": "ea_40efb031cecbd14c",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37241429373375,
+          30.878617973253295
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_7a29e704a3ea8425",
+        "entranceId": "ea_7a29e704a3ea8425",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372311810014864,
+          30.8786783539453
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_71b7790d8e80c663",
+        "entranceId": "ea_71b7790d8e80c663",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37227986407069,
+          30.878769875931095
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_44bca0e8319625cc",
+        "entranceId": "ea_44bca0e8319625cc",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37239649222788,
+          30.87860569954082
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_1541af5737a1a770",
+        "entranceId": "ea_1541af5737a1a770",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37208880600268,
+          30.878875786185745
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_78c452be7943dbed",
+        "entranceId": "ea_78c452be7943dbed",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371715557837774,
+          30.87898967025876
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_e8d6e295b9a6a9c4",
+        "entranceId": "ea_e8d6e295b9a6a9c4",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37229117847744,
+          30.879064181925173
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_c521746faaf04822",
+        "entranceId": "ea_c521746faaf04822",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37184359177543,
+          30.879053066448062
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_7fe9cc60ffd3c69d",
+        "entranceId": "ea_7fe9cc60ffd3c69d",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3716524222943,
+          30.87903508419644
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_65712b7c1e92e10a",
+        "entranceId": "ea_65712b7c1e92e10a",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37235459045606,
+          30.87876367113205
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_b880b77681c3ad73",
+        "entranceId": "ea_b880b77681c3ad73",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372240537703604,
+          30.879121587308404
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_48e0b33190212a06",
+        "entranceId": "ea_48e0b33190212a06",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372270350091675,
+          30.879107367015102
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_43a748a6c91a739b",
+        "entranceId": "ea_43a748a6c91a739b",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37199949242123,
+          30.87886294413646
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_b199a268d7a47989",
+        "entranceId": "ea_b199a268d7a47989",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37232502487674,
+          30.878780329875514
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_d8c9eb95ddd8c3d8",
+        "entranceId": "ea_d8c9eb95ddd8c3d8",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371884732932315,
+          30.879029885714306
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_4f0bdf0f6aa20870",
+        "entranceId": "ea_4f0bdf0f6aa20870",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37221495204173,
+          30.879122986705696
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_5b8403a591e6a8cb",
+        "entranceId": "ea_5b8403a591e6a8cb",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37186291840467,
+          30.87904217697668
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_b0acc6be61538de1",
+        "entranceId": "ea_b0acc6be61538de1",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371904768534804,
+          30.879220002220308
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_b5b6d40f0f5fe06a",
+        "entranceId": "ea_b5b6d40f0f5fe06a",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3723068667354,
+          30.87865621215794
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_273f186319875285",
+        "entranceId": "ea_273f186319875285",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37219022341259,
+          30.87911735824741
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_f6c375c6f09793d3",
+        "entranceId": "ea_f6c375c6f09793d3",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37188874845804,
+          30.878989539490373
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_67ca23a4c2b78991",
+        "entranceId": "ea_67ca23a4c2b78991",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372347340206446,
+          30.87873236777707
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_57077edbacb77c44",
+        "entranceId": "ea_57077edbacb77c44",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371889139345456,
+          30.87919922219974
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_dbf7d8f36e4e5fcb",
+        "entranceId": "ea_dbf7d8f36e4e5fcb",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37199326828655,
+          30.879005771091247
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_58cdce2a7e5f78fc",
+        "entranceId": "ea_58cdce2a7e5f78fc",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37202596516799,
+          30.87889754659199
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_b687440ce2ca091e",
+        "entranceId": "ea_b687440ce2ca091e",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37194309045823,
+          30.879224770357823
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_69de12d7af96674a",
+        "entranceId": "ea_69de12d7af96674a",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37196647787815,
+          30.87900368225455
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_7ee026f09c7f38c5",
+        "entranceId": "ea_7ee026f09c7f38c5",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371853797287365,
+          30.8790016252708
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_952bdc18f5701dc2",
+        "entranceId": "ea_952bdc18f5701dc2",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37249186200222,
+          30.878911684492284
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_630a7585bf26fe19",
+        "entranceId": "ea_630a7585bf26fe19",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37228745675562,
+          30.879050546154478
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_67e52e1bded0f876",
+        "entranceId": "ea_67e52e1bded0f876",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37231511118813,
+          30.878923815695916
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_f4656f04ca02e8e0",
+        "entranceId": "ea_f4656f04ca02e8e0",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37230236153337,
+          30.878793099538463
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_9e60af8a546708b9",
+        "entranceId": "ea_9e60af8a546708b9",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37220474778229,
+          30.87874639251321
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_5f65523397e8f57f",
+        "entranceId": "ea_5f65523397e8f57f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3717620630731,
+          30.87897385983791
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_fbe41de349d8ed8e",
+        "entranceId": "ea_fbe41de349d8ed8e",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372118405508,
+          30.878845434524067
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_8c6aa165c513afaa",
+        "entranceId": "ea_8c6aa165c513afaa",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37228424859823,
+          30.878758269800564
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_fa4a74d161e190fe",
+        "entranceId": "ea_fa4a74d161e190fe",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37188411814222,
+          30.878924859331462
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_fac73fe9cfb433f5",
+        "entranceId": "ea_fac73fe9cfb433f5",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37186210370386,
+          30.879161611850687
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_ce475668a1d6ac5c",
+        "entranceId": "ea_ce475668a1d6ac5c",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37189291514594,
+          30.879082070464406
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_12de7c1ba84148fb",
+        "entranceId": "ea_12de7c1ba84148fb",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371658931250224,
+          30.87901114411648
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_afe3b3fd1925ec0b",
+        "entranceId": "ea_afe3b3fd1925ec0b",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37165688748846,
+          30.879013776850826
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_8028fda1c4b7f277",
+        "entranceId": "ea_8028fda1c4b7f277",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37170619470047,
+          30.87900024126689
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_998c155b7b3421cb",
+        "entranceId": "ea_998c155b7b3421cb",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37237272878823,
+          30.878609513940468
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_5ebd0d1220eb8bc7",
+        "entranceId": "ea_5ebd0d1220eb8bc7",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3723840437838,
+          30.878605640924956
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_0e1878b1809de0d5",
+        "entranceId": "ea_0e1878b1809de0d5",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37236645928854,
+          30.878639615499395
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_df85d27ae6972cbc",
+        "entranceId": "ea_df85d27ae6972cbc",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37232858123422,
+          30.878643894205993
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_591b9025aa0deb71",
+        "entranceId": "ea_591b9025aa0deb71",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37236909877727,
+          30.878811318441873
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_93abc247cf9cfe75",
+        "entranceId": "ea_93abc247cf9cfe75",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372260192193075,
+          30.878845865714773
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_8dd2028fdcc051c8",
+        "entranceId": "ea_8dd2028fdcc051c8",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372160033813074,
+          30.87909034814474
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_9d8541afdc2ca2b7",
+        "entranceId": "ea_9d8541afdc2ca2b7",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37226009459656,
+          30.879015283057498
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_a973a957309ef313",
+        "entranceId": "ea_a973a957309ef313",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3722798766815,
+          30.87906426676498
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_ddbaf3715aea4700",
+        "entranceId": "ea_ddbaf3715aea4700",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372266618126936,
+          30.879095417299002
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_1bad823782ab1b53",
+        "entranceId": "ea_1bad823782ab1b53",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3722323688467,
+          30.879113915030494
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_4f9f9bc217977092",
+        "entranceId": "ea_4f9f9bc217977092",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372193416305066,
+          30.87910652440842
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_afc41dcab4e9d38a",
+        "entranceId": "ea_afc41dcab4e9d38a",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37228514133502,
+          30.87909136497869
+        ]
+      },
+      "properties": {
+        "floorId": "f_4c77c4a36c16afa7",
+        "geometryId": "g_36f013fe44a94e33",
+        "entranceId": "ea_36f013fe44a94e33",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371936504166676,
+          30.879217308383893
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_e4ee35d97239a465",
+        "entranceId": "ea_e4ee35d97239a465",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3723379972251,
+          30.878767435827136
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_7e6a4543fe886167",
+        "entranceId": "ea_7e6a4543fe886167",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37250070832698,
+          30.87887358260553
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_cd5084fd1c69fa34",
+        "entranceId": "ea_cd5084fd1c69fa34",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37229850937366,
+          30.87892027842617
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_0952693cbd18032c",
+        "entranceId": "ea_0952693cbd18032c",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37170385658771,
+          30.879004547023058
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_43bf552ca90285a6",
+        "entranceId": "ea_43bf552ca90285a6",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37193103216605,
+          30.879129720666928
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_7507166e3e0f09d3",
+        "entranceId": "ea_7507166e3e0f09d3",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371997536814334,
+          30.87899223553745
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_a3d63d35161d4a2c",
+        "entranceId": "ea_a3d63d35161d4a2c",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372028160659724,
+          30.879117503192393
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_2e2595d88355b022",
+        "entranceId": "ea_2e2595d88355b022",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37196469234164,
+          30.879151432670014
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_1dee207b2b68dfe6",
+        "entranceId": "ea_1dee207b2b68dfe6",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372498841664026,
+          30.878787751631506
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_c0d8cfe51a848c6f",
+        "entranceId": "ea_c0d8cfe51a848c6f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37187852422124,
+          30.879032215342217
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_b13cb1c0d1cfa138",
+        "entranceId": "ea_b13cb1c0d1cfa138",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37226453881225,
+          30.878770800641917
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_625f441fe3821c57",
+        "entranceId": "ea_625f441fe3821c57",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372300669215356,
+          30.878665207893878
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_917965b08a85e953",
+        "entranceId": "ea_917965b08a85e953",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37175148806727,
+          30.8789619157671
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_5d6f7e080d04f05b",
+        "entranceId": "ea_5d6f7e080d04f05b",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37239915229505,
+          30.87874667126603
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_47445711f6090554",
+        "entranceId": "ea_47445711f6090554",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372335151695516,
+          30.87867506936762
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_6fbc2bd604562d1c",
+        "entranceId": "ea_6fbc2bd604562d1c",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37186425243872,
+          30.87898662912754
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_a16cb652a77a1acc",
+        "entranceId": "ea_a16cb652a77a1acc",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37181533658857,
+          30.87917214428749
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_083e66d4fc2d66d1",
+        "entranceId": "ea_083e66d4fc2d66d1",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371835660620256,
+          30.8790129264579
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_06525b896f7e2b11",
+        "entranceId": "ea_06525b896f7e2b11",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37189988983753,
+          30.878978258535565
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_3a997d590ecddb38",
+        "entranceId": "ea_3a997d590ecddb38",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371733482402796,
+          30.87897173294026
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_17ecd22fb51ecbd1",
+        "entranceId": "ea_17ecd22fb51ecbd1",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37249327042051,
+          30.878900976948568
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_e9a033c45802f162",
+        "entranceId": "ea_e9a033c45802f162",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372344858221425,
+          30.87893545017103
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_99838b7e23522a8a",
+        "entranceId": "ea_99838b7e23522a8a",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37240964567226,
+          30.878898673148687
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_89fe4af29909b406",
+        "entranceId": "ea_89fe4af29909b406",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372457945125824,
+          30.878768844531574
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_e2fe179cb0635350",
+        "entranceId": "ea_e2fe179cb0635350",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37210858823177,
+          30.878887275621725
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_e51c07807c680a2d",
+        "entranceId": "ea_e51c07807c680a2d",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372077191911956,
+          30.878905117405363
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_14ec7eeff788e5f8",
+        "entranceId": "ea_14ec7eeff788e5f8",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37191999202624,
+          30.879220722271313
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_cf6849b0546eccdc",
+        "entranceId": "ea_cf6849b0546eccdc",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3723186149539,
+          30.878779214989727
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_58674ec54f2ba7be",
+        "entranceId": "ea_58674ec54f2ba7be",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37189727424158,
+          30.87891465661264
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_519ae24898eb4339",
+        "entranceId": "ea_519ae24898eb4339",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37227840739947,
+          30.878755915837406
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_76c4e98fb3de5f18",
+        "entranceId": "ea_76c4e98fb3de5f18",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37232690631836,
+          30.8787380042024
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_82a435dcac21f10e",
+        "entranceId": "ea_82a435dcac21f10e",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37229314516125,
+          30.878678379956117
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_894999066b1459f6",
+        "entranceId": "ea_894999066b1459f6",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37229647732715,
+          30.87879288087576
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_b3b163d82e4c5b4c",
+        "entranceId": "ea_b3b163d82e4c5b4c",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37190493423493,
+          30.879017460290175
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_0385c4745c2c002f",
+        "entranceId": "ea_0385c4745c2c002f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37224383769839,
+          30.87885334084882
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_914eeab0cb05fea6",
+        "entranceId": "ea_914eeab0cb05fea6",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37179429459495,
+          30.879140598223863
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_9b9ec5b962050a76",
+        "entranceId": "ea_9b9ec5b962050a76",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371712888417946,
+          30.87898330621273
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_a9170ad531e26a08",
+        "entranceId": "ea_a9170ad531e26a08",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37245385693961,
+          30.878816432628756
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_1e4c216de5eb27c5",
+        "entranceId": "ea_1e4c216de5eb27c5",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37225042405043,
+          30.87883161224782
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_34186522322ccd11",
+        "entranceId": "ea_34186522322ccd11",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37235924224051,
+          30.87880624504365
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_e04c10a712945dfc",
+        "entranceId": "ea_e04c10a712945dfc",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37204537851652,
+          30.879064986756912
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_99c51722b0bc0b3a",
+        "entranceId": "ea_99c51722b0bc0b3a",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37197107189326,
+          30.878989000869538
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_44a6834ccf9b4372",
+        "entranceId": "ea_44a6834ccf9b4372",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37190291507063,
+          30.87906357352695
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_ab440eadd1cc164d",
+        "entranceId": "ea_ab440eadd1cc164d",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371853280162696,
+          30.87904670372711
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_b0831c3cc457b246",
+        "entranceId": "ea_b0831c3cc457b246",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37176349848871,
+          30.879007459092687
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_9fd4bbe4fe3780ba",
+        "entranceId": "ea_9fd4bbe4fe3780ba",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37182196104679,
+          30.87908707965557
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_2fb7ea8087c458dc",
+        "entranceId": "ea_2fb7ea8087c458dc",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37186025235264,
+          30.879151951670398
+        ]
+      },
+      "properties": {
+        "floorId": "f_757f33a6595b91ef",
+        "geometryId": "g_7a5dc2c54d4423c5",
+        "entranceId": "ea_7a5dc2c54d4423c5",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37202082549956,
+          30.879079530232755
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_1cdec6063e38e206",
+        "entranceId": "ea_1cdec6063e38e206",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371853264943184,
+          30.878998566696204
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_b68230a54d11d33f",
+        "entranceId": "ea_b68230a54d11d33f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37170081011709,
+          30.8790028392242
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_776be2c781cda084",
+        "entranceId": "ea_776be2c781cda084",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37234740393861,
+          30.878635305972736
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_89a120c3aa7c8669",
+        "entranceId": "ea_89a120c3aa7c8669",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37236672124409,
+          30.878805933951913
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_7a44765827b1a05d",
+        "entranceId": "ea_7a44765827b1a05d",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371886728959545,
+          30.879078386827313
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_1a6fd9ca14dd3534",
+        "entranceId": "ea_1a6fd9ca14dd3534",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372405363289865,
+          30.878867295957438
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_285a3363a22ae507",
+        "entranceId": "ea_285a3363a22ae507",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372344813993585,
+          30.87875854911771
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_dd02aa74e3c3a788",
+        "entranceId": "ea_dd02aa74e3c3a788",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37182038828335,
+          30.879018166299083
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_c5dbaffdd51711fe",
+        "entranceId": "ea_c5dbaffdd51711fe",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372522504114265,
+          30.878704732125666
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_dd89ad2d97553a94",
+        "entranceId": "ea_dd89ad2d97553a94",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37241695622203,
+          30.878752256990744
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_a5f69173d340c88a",
+        "entranceId": "ea_a5f69173d340c88a",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372345954087756,
+          30.8786700776523
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_70ac43615ac66a2b",
+        "entranceId": "ea_70ac43615ac66a2b",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37188467999347,
+          30.878981195868228
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_e105aaa5fd9ae215",
+        "entranceId": "ea_e105aaa5fd9ae215",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37195290526326,
+          30.87894348740608
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_aadb99f760d9ddca",
+        "entranceId": "ea_aadb99f760d9ddca",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371852191847466,
+          30.879138953304068
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_fd0d37227fa987a7",
+        "entranceId": "ea_fd0d37227fa987a7",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37188628678373,
+          30.87919040527795
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_fe0c1ebc443b51d3",
+        "entranceId": "ea_fe0c1ebc443b51d3",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37257407748791,
+          30.87885113419278
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_6c206547e06490ff",
+        "entranceId": "ea_6c206547e06490ff",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37172944617428,
+          30.879170254544107
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_357d7c66c7ec0975",
+        "entranceId": "ea_357d7c66c7ec0975",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3723234603354,
+          30.878630393595195
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_e96d701fa94446d6",
+        "entranceId": "ea_e96d701fa94446d6",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37227570882172,
+          30.87875227621509
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_86bca54757e63718",
+        "entranceId": "ea_86bca54757e63718",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37185713321215,
+          30.879033484847387
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_fb7096f62d146d34",
+        "entranceId": "ea_fb7096f62d146d34",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37184017334621,
+          30.879043303542492
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_9d2a4c8914be0c6f",
+        "entranceId": "ea_9d2a4c8914be0c6f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37217738773821,
+          30.878816866822483
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_a0fb0c4a0835cd15",
+        "entranceId": "ea_a0fb0c4a0835cd15",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372299615737546,
+          30.87878458121889
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_7f230d87cbd44500",
+        "entranceId": "ea_7f230d87cbd44500",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37219129213002,
+          30.879150676712413
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_3d27583b6b20ab8f",
+        "entranceId": "ea_3d27583b6b20ab8f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37234662665596,
+          30.878942264809908
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_840b0b72cb61fb78",
+        "entranceId": "ea_840b0b72cb61fb78",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37243536870851,
+          30.8788918164322
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_113d45a537b879d7",
+        "entranceId": "ea_113d45a537b879d7",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372195586567614,
+          30.878740189313564
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_b8e9e08dc67464aa",
+        "entranceId": "ea_b8e9e08dc67464aa",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37200403288797,
+          30.878876266807225
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_0af248745a4dc6fd",
+        "entranceId": "ea_0af248745a4dc6fd",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37230081398212,
+          30.878672599823837
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_e7ea67b29521486d",
+        "entranceId": "ea_e7ea67b29521486d",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37193293112163,
+          30.87913215395174
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_170863b4d4a0371e",
+        "entranceId": "ea_170863b4d4a0371e",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372261589111844,
+          30.878767251394216
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_480a6b36f82fd665",
+        "entranceId": "ea_480a6b36f82fd665",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371768605382464,
+          30.878972782596623
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_e2d3d58a97294a43",
+        "entranceId": "ea_e2d3d58a97294a43",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37201871318121,
+          30.879123980725037
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_95a05e3e707eb55c",
+        "entranceId": "ea_95a05e3e707eb55c",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37193210805624,
+          30.87917275231323
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_93ee61ed9b203a7d",
+        "entranceId": "ea_93ee61ed9b203a7d",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37185093668123,
+          30.879253937891978
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_2c1baadd7483a789",
+        "entranceId": "ea_2c1baadd7483a789",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372488886998774,
+          30.87890477917727
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_057333e8980cf354",
+        "entranceId": "ea_057333e8980cf354",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372552115763256,
+          30.878869047424068
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_660ff49eb93eb096",
+        "entranceId": "ea_660ff49eb93eb096",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37195646832072,
+          30.878977699633424
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_4a016245c6409c44",
+        "entranceId": "ea_4a016245c6409c44",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37187888136227,
+          30.878915878737807
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_3eb3ac1a6c9ccaf0",
+        "entranceId": "ea_3eb3ac1a6c9ccaf0",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372474131228465,
+          30.878760356994608
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_c774b3f578b2123d",
+        "entranceId": "ea_c774b3f578b2123d",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372268767649935,
+          30.879144185313393
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_5fc4d189781442e8",
+        "entranceId": "ea_5fc4d189781442e8",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37229529189097,
+          30.87912900451171
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_c330facaae976f67",
+        "entranceId": "ea_c330facaae976f67",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37171862138151,
+          30.878975345041994
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_03e1a33bc10ac2db",
+        "entranceId": "ea_03e1a33bc10ac2db",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37244877372222,
+          30.878806375829562
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_cae4051c32f9dcfb",
+        "entranceId": "ea_cae4051c32f9dcfb",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372490028708775,
+          30.87885498711838
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_29a5d10b6076acfc",
+        "entranceId": "ea_29a5d10b6076acfc",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37233110912916,
+          30.87876644248718
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_1bc7029ee4c56a23",
+        "entranceId": "ea_1bc7029ee4c56a23",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37211546567921,
+          30.878813480323885
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_44513d7571c5a211",
+        "entranceId": "ea_44513d7571c5a211",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3718871383945,
+          30.87901654192555
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_deb5a7acccfd2366",
+        "entranceId": "ea_deb5a7acccfd2366",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37179970124246,
+          30.87908133133345
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_b98a45071deac0d5",
+        "entranceId": "ea_b98a45071deac0d5",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37174070017056,
+          30.87899437868944
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_5d87a143263c8628",
+        "entranceId": "ea_5d87a143263c8628",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372329418509516,
+          30.878730482130017
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_1639d43ffb074047",
+        "entranceId": "ea_1639d43ffb074047",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37186502037757,
+          30.879251388256424
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_2d5b007be9f06e5f",
+        "entranceId": "ea_2d5b007be9f06e5f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37192476965722,
+          30.8792187267272
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_a407bdf070464600",
+        "entranceId": "ea_a407bdf070464600",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372241428419315,
+          30.878859019208978
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_b2833c637d2adc8f",
+        "entranceId": "ea_b2833c637d2adc8f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372306987304015,
+          30.87890568081509
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_6d363baede4ce2e7",
+        "entranceId": "ea_6d363baede4ce2e7",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37228200293228,
+          30.878902280613502
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_3340a8ae5399eb21",
+        "entranceId": "ea_3340a8ae5399eb21",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372249155071465,
+          30.878827529366635
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_eb670c817595760d",
+        "entranceId": "ea_eb670c817595760d",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37178448786088,
+          30.87914413891145
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_7457a986e02af1b6",
+        "entranceId": "ea_7457a986e02af1b6",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37198702215922,
+          30.879001379722375
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_bd03fd31a3e79c3f",
+        "entranceId": "ea_bd03fd31a3e79c3f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372318068668065,
+          30.87907947700212
+        ]
+      },
+      "properties": {
+        "floorId": "f_b5369b1f7a27bb97",
+        "geometryId": "g_5948675b364306c6",
+        "entranceId": "ea_5948675b364306c6",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37225917599102,
+          30.878768516654738
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_150b4394f6fbef0b",
+        "entranceId": "ea_150b4394f6fbef0b",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37253106276336,
+          30.87888095552525
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_60c9d05072b00648",
+        "entranceId": "ea_60c9d05072b00648",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372402123280004,
+          30.878863081048966
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_711e1467c33cc309",
+        "entranceId": "ea_711e1467c33cc309",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37203006969084,
+          30.87887689380656
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_e30ec4d5d25e660f",
+        "entranceId": "ea_e30ec4d5d25e660f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37227809251763,
+          30.878757667293403
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_90b72a87a15d1a77",
+        "entranceId": "ea_90b72a87a15d1a77",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372485722037624,
+          30.878849928562346
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_b5f213d39632d2f4",
+        "entranceId": "ea_b5f213d39632d2f4",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37244567294759,
+          30.878803260972933
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_23bd7ff88f4d67cb",
+        "entranceId": "ea_23bd7ff88f4d67cb",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37201487526586,
+          30.87907403507021
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_34c11259a981086e",
+        "entranceId": "ea_34c11259a981086e",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371767419047046,
+          30.878964167414974
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_2afc3bc28ce97d27",
+        "entranceId": "ea_2afc3bc28ce97d27",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37201430919894,
+          30.87912060520125
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_8ce82cd2a7d93436",
+        "entranceId": "ea_8ce82cd2a7d93436",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37194610540182,
+          30.879159801385928
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_286fedfffbad3d58",
+        "entranceId": "ea_286fedfffbad3d58",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37233985362945,
+          30.878938580738126
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_2129c43092680c7f",
+        "entranceId": "ea_2129c43092680c7f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37241061512618,
+          30.878899009925483
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_0b4f534c277c06c5",
+        "entranceId": "ea_0b4f534c277c06c5",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37195457091413,
+          30.878991686739184
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_7405af2d61614b6f",
+        "entranceId": "ea_7405af2d61614b6f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37184758094884,
+          30.87913777345644
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_9cd8d093969d69fe",
+        "entranceId": "ea_9cd8d093969d69fe",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371880047257015,
+          30.87918653695334
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_6a418b119dd3c4fe",
+        "entranceId": "ea_6a418b119dd3c4fe",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37209038595322,
+          30.87884386139289
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_c283c0c377ed53ae",
+        "entranceId": "ea_c283c0c377ed53ae",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37188398771348,
+          30.878919163500658
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_8c7a52dfd8ec706f",
+        "entranceId": "ea_8c7a52dfd8ec706f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37210242044448,
+          30.878823709541823
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_7cf9f042330f19c3",
+        "entranceId": "ea_7cf9f042330f19c3",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37192851408564,
+          30.879128507320658
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_1a341f21ca5ff91e",
+        "entranceId": "ea_1a341f21ca5ff91e",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372301382769955,
+          30.878905083581383
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_9de681195e234059",
+        "entranceId": "ea_9de681195e234059",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372485532135165,
+          30.8789069032798
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_15895f41f646fdcb",
+        "entranceId": "ea_15895f41f646fdcb",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37219387419425,
+          30.878741611831863
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_51fe3c47fb68b893",
+        "entranceId": "ea_51fe3c47fb68b893",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371707744134554,
+          30.879001460620632
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_24861f16d3c2181c",
+        "entranceId": "ea_24861f16d3c2181c",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37193051157383,
+          30.879217117462307
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_105e2a5af831abf3",
+        "entranceId": "ea_105e2a5af831abf3",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372345195238026,
+          30.878669191012236
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_316a13337e75bf86",
+        "entranceId": "ea_316a13337e75bf86",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372403251772184,
+          30.878740514051398
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_1b1f9ba46fca967f",
+        "entranceId": "ea_1b1f9ba46fca967f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37229538986483,
+          30.878785095695733
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_40b4844dc3d496ff",
+        "entranceId": "ea_40b4844dc3d496ff",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372322860188525,
+          30.878769526710986
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_f2a3e44ea5ae0b5f",
+        "entranceId": "ea_f2a3e44ea5ae0b5f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37187682427908,
+          30.879022895445722
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_e2f8eea1b2c766eb",
+        "entranceId": "ea_e2f8eea1b2c766eb",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3719891046421,
+          30.87888708260253
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_38427616877410eb",
+        "entranceId": "ea_38427616877410eb",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37235441409807,
+          30.878797038636424
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_2ff399c9bc593751",
+        "entranceId": "ea_2ff399c9bc593751",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37179821784777,
+          30.87907971189694
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_9e5d314a1c748a63",
+        "entranceId": "ea_9e5d314a1c748a63",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37174912464367,
+          30.8790089390673
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_225bc05cb5597240",
+        "entranceId": "ea_225bc05cb5597240",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372325122349395,
+          30.87873080235557
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_0c689ee09ef42aca",
+        "entranceId": "ea_0c689ee09ef42aca",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37185462726315,
+          30.879035324892925
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_b866863c17f8651a",
+        "entranceId": "ea_b866863c17f8651a",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372302067234386,
+          30.878675095954797
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_bed1590a1bc4a250",
+        "entranceId": "ea_bed1590a1bc4a250",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37172460032777,
+          30.87897886228313
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_d1cd0315d475b9d6",
+        "entranceId": "ea_d1cd0315d475b9d6",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37182182099827,
+          30.87901719595654
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_c9e63d0084abc780",
+        "entranceId": "ea_c9e63d0084abc780",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37185162333695,
+          30.879000651983905
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_e6249067742ecee0",
+        "entranceId": "ea_e6249067742ecee0",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37230217999765,
+          30.87864699068854
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_63c39dbaedb25a02",
+        "entranceId": "ea_63c39dbaedb25a02",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371747719455435,
+          30.878965415130754
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_ffd3092968aad219",
+        "entranceId": "ea_ffd3092968aad219",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37233534350008,
+          30.878762381879834
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_4b0af0ff512205e5",
+        "entranceId": "ea_4b0af0ff512205e5",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37188401479931,
+          30.879242384249665
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_85e63e81c571b82d",
+        "entranceId": "ea_85e63e81c571b82d",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37188670192371,
+          30.878981179032856
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_1a9f884ce1a1df39",
+        "entranceId": "ea_1a9f884ce1a1df39",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37227796879297,
+          30.8788984106429
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_a916253f0cb1d866",
+        "entranceId": "ea_a916253f0cb1d866",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371857295140494,
+          30.879228407658832
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_0f13ad4fe4413f32",
+        "entranceId": "ea_0f13ad4fe4413f32",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37254911666684,
+          30.878853054695497
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_76809cff2d100c08",
+        "entranceId": "ea_76809cff2d100c08",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37254643417722,
+          30.878866089007836
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_c7f15a80971547d3",
+        "entranceId": "ea_c7f15a80971547d3",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37247407027014,
+          30.878757511078494
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_579876f9d72136e4",
+        "entranceId": "ea_579876f9d72136e4",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372242219164406,
+          30.878829511925733
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_133539f9d7e9e0b1",
+        "entranceId": "ea_133539f9d7e9e0b1",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37232558602685,
+          30.878633685200924
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_7fce8920c92edb59",
+        "entranceId": "ea_7fce8920c92edb59",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37235794839213,
+          30.878630473202506
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_364a8c5997897425",
+        "entranceId": "ea_364a8c5997897425",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37179338991305,
+          30.879142298260373
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_95127bbc1cb8d036",
+        "entranceId": "ea_95127bbc1cb8d036",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3719856419468,
+          30.8789990729003
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_88685d19822c1450",
+        "entranceId": "ea_88685d19822c1450",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37201093192535,
+          30.87904672121706
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_70011162a0a6de17",
+        "entranceId": "ea_70011162a0a6de17",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.372238343286554,
+          30.878856610607425
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_74d6586eac075ae7",
+        "entranceId": "ea_74d6586eac075ae7",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.371838148933584,
+          30.879044394994917
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_ea83cf55d3f47709",
+        "entranceId": "ea_ea83cf55d3f47709",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.37188517859277,
+          30.879071364281657
+        ]
+      },
+      "properties": {
+        "floorId": "f_f00f735a7e70bee6",
+        "geometryId": "g_805a2036af1ed16f",
+        "entranceId": "ea_805a2036af1ed16f",
+        "kind": "open",
+        "type": "entrance-aesthetic"
+      }
+    }
+  ]
+}
