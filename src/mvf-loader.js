@@ -2,8 +2,22 @@ import JSZip from 'jszip';
 
 export async function loadMVFBundle(url) {
     const response = await fetch(url);
+    if (!response.ok) {
+        throw new Error(`Failed to fetch MVF bundle (${response.status} ${response.statusText}): ${url}`);
+    }
+
+    const contentType = response.headers.get('content-type') || '';
     const blob = await response.blob();
-    const zip = await JSZip.loadAsync(blob);
+    let zip;
+    try {
+        zip = await JSZip.loadAsync(blob);
+    } catch (e) {
+        const message = e && e.message ? e.message : String(e);
+        const hint = contentType.includes('text/html')
+            ? ' (received HTML; check that the file exists and is not being redirected)'
+            : '';
+        throw new Error(`Failed to read MVF bundle as zip from ${url}${hint}: ${message}`);
+    }
 
     // 1. Parse Manifest
     const manifestFile = zip.file('manifest.geojson');
